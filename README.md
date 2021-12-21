@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JakobSchyga
+- 👀 I’m a researcher at [Institue for Technical Logistic](https://cgi.tu-harburg.de/~c00itlww/) at the Hamburg University of Technology. I'm interested in indoor-localization, robotics, sensor data fusion and object detection. Find my publications at [ResearchGate](https://www.researchgate.net/profile/Jakob-Schyga/research)
+- 🌱 I’m currently working on my dissertation about the test & evaluation of indoor-localization systems. Please, check this [Paper](https://arxiv.org/abs/2107.10597) for more information. 
+- 📫 Reach me per mail (jakob.schyga@tuhh.de)
